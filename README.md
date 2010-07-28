@@ -6,10 +6,13 @@ styles and settings.
 
 Simply add the class 'datepicker' to any textbox you want a calendar for.
 
+
 Prerequisites
 =============
 
 You need both `jquery-1.4` and `jquery-ui-1.8` (with the datepicker widget) in your `public/javascripts/`.
+
+If you have the `livequery` plugin installed, `datepicker` will make use of it to call `.datepicker()` on AJAXed elements with the class `datepicker`.
 
 
 Installation
