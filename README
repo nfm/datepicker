@@ -1,7 +1,7 @@
-JqueryDatepicker
+datepicker
 ================
 
-A plugin that packages jquery ui's datepicker with sensible default
+A plugin that packages jquery-ui's datepicker with sensible default
 styles and settings.
 
 Simply add the class 'datepicker' to any textbox you want a calendar for.
